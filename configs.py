@@ -1,1 +1,4 @@
-serviceUrl = ""
+service = {
+    "url" : "",
+    "auth" : ""
+}
